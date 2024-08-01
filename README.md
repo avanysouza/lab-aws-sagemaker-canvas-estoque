@@ -1,6 +1,6 @@
 # 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
-Desafio de projeto "Previsão de Estoque Inteligente" na AWS com SageMaker Canvas. Neste Lab do Bootcamp da DIO, objetivo é conhecer e explorar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). 
+Desafio de projeto "Previsão de Estoque Inteligente" na AWS com SageMaker Canvas. Neste Lab do Bootcamp da DIO, o objetivo é conhecer e explorar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). 
 
 ## ☁️ SageMaker
 Amazon SageMaker é um serviço de aprendizado de máquina (Machine Learning) totalmente gerenciado oferecido pela Amazon Web Services (AWS). Ele permite que desenvolvedores e cientistas de dados criem, treinem e implantem modelos de aprendizado de máquina rapidamente e em escala.<br>
