@@ -62,4 +62,4 @@ Por utilizar a versão Free Tier da AWS, foi gerada uma versão simplificada da 
 
 ## 👩🏽‍💻 Tecnologias 
 
-Amazon Web Services - SageMaker Canvas
+Amazon Web Services - SageMaker Canvas e Amazon Bedrock
