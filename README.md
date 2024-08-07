@@ -14,6 +14,11 @@ O SageMaker oferece uma ampla gama de ferramentas e funcionalidades que cobrem t
 - Utilizar IA Generativa (Amazon Bedrock) para criar um modelo de machine learning para fornecedor como DataSet ao SageMaker Canvas
 - Desenvolver, sem código, um modelo de machine learning e treiná-lo configurando as variáveis de entrada e saída.
 
+## Certificado
+
+![image](https://github.com/user-attachments/assets/238946ab-ed72-4e4b-bf91-406659d38234)
+
+
 ## 🚀 Passo a Passo
 
 ### 1. Selecionar Dataset (Select)
